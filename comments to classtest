@@ -1,0 +1,8 @@
+class Hero(Creature)
+    names = ["Jack", "Lana", "Peter", "Mary", "Robert"]
+    types = ["Pirate", "Archer", "Berserk"]
+
+class Enemy(Creature)
+    names = ["Босоножко", "Обидулька", "Подсранко", "Золупышка", "Лопоушко"]
+    types = ["Zombie"]
+
